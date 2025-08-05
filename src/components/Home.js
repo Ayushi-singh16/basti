@@ -101,7 +101,7 @@ function Home() {
           <img src='poor1.png' height="100%" width="100%"></img>
         </div>
         <div className='div2'>
-           <h1  className='heading1'>"Helping Hands, Changing Lives"</h1>
+           <h1  className='heading1' style={{ fontSize: "30px" }}>"Helping Hands, Changing Lives"</h1>
   <h2 className='heading2'>With Basti Ki Pathshala Foundation</h2>
   
   <p >
